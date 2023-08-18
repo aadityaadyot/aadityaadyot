@@ -43,5 +43,6 @@ python programming.
 ## Contact
  I’m looking to collaborate on Python Development, Data Science and Machine Learning Project.
 
-📫 contact me at: reach.Mr.adyot@gmail.com
-LinkedIn: https://www.linkedin.com/in/aadityaa1212/
+📫 Contact me at: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aadityaa1212/)
+
+📫 Email at: reach.Mr.adyot@gmail.com
