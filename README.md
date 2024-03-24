@@ -2,7 +2,7 @@
 consider me as a Data Scientist/ AI-ML Engineer with extensive experience in extracting valuable insights from diverse data sets.
 Skilled in machine learning, deep learning, computer vision, natural language processing (NLP), and generative AI
 models, leveraging advanced technologies to deliver impactful solutions. I have proven ability to design, develop, and deploy
-effective solutions across various industries, driving efficiency and innovation in diverse domains. Worked in Retail,
+effective solutions across various industries, driving efficiency and innovation in diverse domains. I have worked in Retail,
 Ecommerce, Healthcare, Manufacturing dealing projects..
 
 ## 🛠 &nbsp;Tech Stack
