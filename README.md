@@ -1,9 +1,9 @@
 ## Hi, Aaditya Shrivastava here
-Driven Data Science Professional with hands-on experience of end-to-end
-ML projects. Ready to combine tireless hunger for new skills with
-desire to exploit cutting-edge data science technology. Skilled in
-data visualization, machine learning, applied statistics, mysql, and
-python programming.
+consider me as a Data Scientist/ AI-ML Engineer with extensive experience in extracting valuable insights from diverse data sets.
+Skilled in machine learning, deep learning, computer vision, natural language processing (NLP), and generative AI
+models, leveraging advanced technologies to deliver impactful solutions. Proven ability to design, develop, and deploy
+effective solutions across various industries, driving efficiency and innovation in diverse domains. Worked in Retail,
+Ecommerce, Healthcare, Manufacturing dealing projects..
 
 ## 🛠 &nbsp;Tech Stack
 **Programming Languages:** <br> <br>
